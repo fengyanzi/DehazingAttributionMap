@@ -1,6 +1,7 @@
 # DehazingAttributionMap
 [CVPR 2025] 🏆Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images
 
+paper:[https://arxiv.org/abs/2504.09621](https://arxiv.org/abs/2504.09621)
 We are preparing the datasets and code, which will be released soon.
 
 **The source code of DehazeXL are available at [https://github.com/CastleChen339/DehazeXL](https://github.com/CastleChen339/DehazeXL).**
