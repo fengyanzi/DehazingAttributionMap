@@ -3,7 +3,7 @@
 
 We are preparing the datasets and code, which will be released soon.
 
-**The source code of DehazeXL will be available at [https://github.com/CastleChen339/DehazeXL](https://github.com/CastleChen339/DehazeXL).**
+**The source code of DehazeXL are available at [https://github.com/CastleChen339/DehazeXL](https://github.com/CastleChen339/DehazeXL).**
 
 As the datasets is too big (more than 1T), we are looking for ways to share it.
 
