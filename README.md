@@ -1,6 +1,6 @@
 # Dehazing Attribution Map (去雾归因图)
 
-This repository provides the official implementation of the **Dehazing Attribution Map** section from the paper: [Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](https://arxiv.org/abs/2504.09621).
+This repository provides the official implementation of the **Dehazing Attribution Map** section from the **CVPR2025** paper: [Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](https://arxiv.org/abs/2504.09621).
 
 - 🔍 Visualizing image regions critical for dehazing model decisions.
 - 📊 Quantifying contributions of global context information to dehazing effectiveness.
