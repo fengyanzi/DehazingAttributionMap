@@ -8,8 +8,8 @@ This repository provides the official implementation of the **Dehazing Attributi
 
 ---
 
-*The source code for the proposed **DehazeXL** model is available at [GitHub](https://github.com/CastleChen339/DehazeXL). The mini version of the proposed dataset **8Kdehaze** can be accessed here: [Modelscope](https://www.modelscope.cn/datasets/fengyanzi/8kdehaze_mini/) | [Hugging Face](https://huggingface.co/datasets/fengyanzi/8KDehaze_mini) | [BaiduCloud](https://pan.baidu.com/s/1ZVipOYnTR-M_xG5FZNtZPQ?pwd=4321) | [AliCloud](https://www.alipan.com/s/7AVat72s4Sk).
-
+*The source code for the proposed **DehazeXL** model is available at [GitHub](https://github.com/CastleChen339/DehazeXL). 
+The mini version of the proposed dataset **8Kdehaze** can be accessed here: [Modelscope](https://www.modelscope.cn/datasets/fengyanzi/8kdehaze_mini/) | [Hugging Face](https://huggingface.co/datasets/fengyanzi/8KDehaze_mini) | [BaiduCloud](https://pan.baidu.com/s/1ZVipOYnTR-M_xG5FZNtZPQ?pwd=4321) | [AliCloud](https://www.alipan.com/s/7AVat72s4Sk).
 For the full version of **8Kdehaze**, visit: [BaiduCloud](https://pan.baidu.com/s/1-z7h-BLV7BxNg4Qp6Hi5uQ?pwd=4321).
 
 ---
