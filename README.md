@@ -11,8 +11,6 @@ This repository provides the official implementation of the **Dehazing Attributi
 ## **关于研究工具正当使用的声明**
 
 我们开发的DAM工具和DehazeXL模型旨在**促进**高分辨率图像去雾领域的**学术进步**，不应被用于任何学术不端行为。
-常识错误与无底线造假令人发笑
-说的就是你[预印本🤡](https://arxiv.org/pdf/2505.14010)
 
 
 ---
