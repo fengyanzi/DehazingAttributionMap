@@ -8,6 +8,15 @@ This repository provides the official implementation of the **Dehazing Attributi
 
 ---
 
+## **关于研究工具正当使用的声明**
+
+我们开发的DAM工具和DehazeXL模型旨在**促进**高分辨率图像去雾领域的**学术进步**，不应被用于任何学术不端行为。
+常识错误与无底线造假令人发笑
+说的就是你[预印本🤡](https://arxiv.org/pdf/2505.14010)
+
+
+---
+
 *The source code for the proposed **DehazeXL** model is available at [GitHub](https://github.com/CastleChen339/DehazeXL). 
 The mini version of the proposed dataset **8Kdehaze** can be accessed here: [Modelscope](https://www.modelscope.cn/datasets/fengyanzi/8kdehaze_mini/) | [Hugging Face](https://huggingface.co/datasets/fengyanzi/8KDehaze_mini) | [BaiduCloud](https://pan.baidu.com/s/1ZVipOYnTR-M_xG5FZNtZPQ?pwd=4321) | [AliCloud](https://www.alipan.com/s/7AVat72s4Sk).
 For the full version of **8Kdehaze**, visit: [BaiduCloud](https://pan.baidu.com/s/1-z7h-BLV7BxNg4Qp6Hi5uQ?pwd=4321).
