@@ -2,6 +2,10 @@
 
 This repository provides the official implementation of the **Dehazing Attribution Map** section from the **CVPR2025** paper: [🌐 Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](https://arxiv.org/abs/2504.09621).
 
+Paper Link: [CVF OpenAccess]( https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Tokenize_Image_Patches_Global_Context_Fusion_for_Effective_Haze_Removal_CVPR_2025_paper.html)
+
+Arxiv: https://arxiv.org/abs/2504.09621
+
 - 🔍 Visualizing image regions critical for dehazing model decisions.
 - 📊 Quantifying contributions of global context information to dehazing effectiveness.
 - ⚙️ Enhancing interpretability of deep learning-based dehazing models.
