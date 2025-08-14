@@ -4,6 +4,9 @@ This repository provides the official implementation of the **Dehazing Attributi
 
 Paper Link: [CVF OpenAccess]( https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Tokenize_Image_Patches_Global_Context_Fusion_for_Effective_Haze_Removal_CVPR_2025_paper.html)
 
+
+Project Page: https://castlechen339.github.io/DehazeXL.github.io/
+
 Arxiv: https://arxiv.org/abs/2504.09621
 
 - 🔍 Visualizing image regions critical for dehazing model decisions.
@@ -23,7 +26,7 @@ Arxiv: https://arxiv.org/abs/2504.09621
 
 ---
 
-*The source code for the proposed **DehazeXL** model is available at [GitHub](https://github.com/CastleChen339/DehazeXL). 
+*The source code for the proposed **DehazeXL** model is available at [https://github.com/CastleChen339/DehazeXL](https://github.com/CastleChen339/DehazeXL). 
 
 The mini version of the proposed dataset **8Kdehaze** can be accessed here: [Modelscope](https://www.modelscope.cn/datasets/fengyanzi/8kdehaze_mini/) | [Hugging Face](https://huggingface.co/datasets/fengyanzi/8KDehaze_mini) | [BaiduCloud](https://pan.baidu.com/s/1ZVipOYnTR-M_xG5FZNtZPQ?pwd=4321) | [AliCloud](https://www.alipan.com/s/7AVat72s4Sk).
 
