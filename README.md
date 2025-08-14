@@ -10,11 +10,15 @@ Arxiv: https://arxiv.org/abs/2504.09621
 - 📊 Quantifying contributions of global context information to dehazing effectiveness.
 - ⚙️ Enhancing interpretability of deep learning-based dehazing models.
 
+![CVPR POSTER](./docx/33694.png)
+
+
+
 ---
 
 ## **关于研究工具正当使用的声明** **Statement on Proper Use of Research Tools**
 
-我们开发的DAM工具和DehazeXL模型旨在**促进**高分辨率图像去雾领域的**学术进步**，不应被用于任何[学术不端](https://arxiv.org/abs/2505.14010)行为。
+我们开发的DAM工具和DehazeXL模型旨在**促进**高分辨率图像去雾领域的**学术进步**，不应被用于任何学术不端行为。
 
 
 ---
