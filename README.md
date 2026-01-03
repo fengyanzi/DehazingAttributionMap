@@ -218,11 +218,13 @@ If you use DAM, please cite:
 在使用 DAM 时，请引用以下文章,诚挚感谢：
 
 ```bibtex
-@article{chen2025tokenize,
-  title={Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images},
-  author={Chen, Jiuchen and Yan, Xinyu and Xu, Qizhi and Li, Kaiqi},
-  journal={arXiv preprint arXiv:2504.09621},
-  year={2025}
+@InProceedings{Chen_2025_CVPR,
+    author    = {Chen, Jiuchen and Yan, Xinyu and Xu, Qizhi and Li, Kaiqi},
+    title     = {Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {2258-2268}
 }
 ```
  -->
