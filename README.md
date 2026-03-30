@@ -1,21 +1,22 @@
+<div align="center">
+    
 # Dehazing Attribution Map (去雾归因图)
 
-This repository provides the official implementation of the **Dehazing Attribution Map** section from the **CVPR2025** paper: [🌐 Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](https://arxiv.org/abs/2504.09621).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
+[![Stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap)](https://github.com/fengyanzi/DehazingAttributionMap/)
 
-Paper Link: [CVF OpenAccess]( https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Tokenize_Image_Patches_Global_Context_Fusion_for_Effective_Haze_Removal_CVPR_2025_paper.html)
+>- 🔍 Visualizing image regions critical for dehazing model decisions.
+>- 📊 Quantifying contributions of global context information to dehazing effectiveness.
+>- ⚙️ Enhancing interpretability of deep learning-based dehazing models.
 
+**This repository provides the official implementation of the **Dehazing Attribution Map** section from the **CVPR2025** paper: [🌐 Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](https://arxiv.org/abs/2504.09621).**
 
-Project Page: https://castlechen339.github.io/DehazeXL.github.io/
-
-Arxiv: https://arxiv.org/abs/2504.09621
-
-- 🔍 Visualizing image regions critical for dehazing model decisions.
-- 📊 Quantifying contributions of global context information to dehazing effectiveness.
-- ⚙️ Enhancing interpretability of deep learning-based dehazing models.
+Paper Link: [CVF OpenAccess]( https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Tokenize_Image_Patches_Global_Context_Fusion_for_Effective_Haze_Removal_CVPR_2025_paper.html) · Project Page: [DehazeXL.github.io](https://castlechen339.github.io/DehazeXL.github.io/) · Arxiv: [2504.09621](https://arxiv.org/abs/2504.09621)
 
 ![CVPR POSTER](./docx/33694.png)
 
-
+</div>
 
 ---
 
@@ -30,7 +31,7 @@ Arxiv: https://arxiv.org/abs/2504.09621
 
 The mini version of the proposed dataset **8Kdehaze** can be accessed here: [Modelscope](https://www.modelscope.cn/datasets/fengyanzi/8kdehaze_mini/) | [Hugging Face](https://huggingface.co/datasets/fengyanzi/8KDehaze_mini) | [BaiduCloud](https://pan.baidu.com/s/1ZVipOYnTR-M_xG5FZNtZPQ?pwd=4321) | [AliCloud](https://www.alipan.com/s/7AVat72s4Sk).
 
-For the full version of **8Kdehaze**, visit: [BaiduCloud](https://pan.baidu.com/s/1-z7h-BLV7BxNg4Qp6Hi5uQ?pwd=4321).
+For the full version of **8Kdehaze**, visit: [Hugging Face](https://huggingface.co/datasets/CastleChen339/8KDehaze) [BaiduCloud](https://pan.baidu.com/s/1-z7h-BLV7BxNg4Qp6Hi5uQ?pwd=4321).
 
 ---
 
